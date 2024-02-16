@@ -1,7 +1,7 @@
 {
   "transactions": [
     {
-      "id": 1,
+      "id": "1",
       "description": "Desenvolvimento de site",
       "type": "income",
       "category": "Venda",
@@ -9,7 +9,7 @@
       "createdAt": "2024-02-06T14:16:19.563Z"
     },
     {
-      "id": 2,
+      "id": "2",
       "description": "Hamburguer",
       "type": "outcome",
       "category": "Alimentação",
@@ -17,12 +17,28 @@
       "createdAt": "2024-02-06T14:10:19.563Z"
     },
     {
-      "id": 3,
+      "id": "3",
       "description": "Ignite Rocketseat",
       "type": "outcome",
       "category": "Educação",
       "price": 2000,
       "createdAt": "2024-02-06T14:08:19.563Z"
+    },
+    {
+      "id": "bd89",
+      "description": "Musculação",
+      "price": 80,
+      "category": "Saude",
+      "type": "outcome",
+      "createdAt": "2024-02-16T18:29:30.591Z"
+    },
+    {
+      "id": "9b7b",
+      "description": "Ração do Snow",
+      "price": 24,
+      "category": "Pet",
+      "type": "outcome",
+      "createdAt": "2024-02-16T18:55:31.471Z"
     }
   ]
 }
